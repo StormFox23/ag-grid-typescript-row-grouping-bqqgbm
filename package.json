@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "ag-grid-community": "21.0.1",
-    "ag-grid-enterprise": "21.0.1"
+    "ag-grid-community": "^25.0.1",
+    "ag-grid-enterprise": "^25.0.1"
   }
 }
